@@ -13,15 +13,14 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a **QA Engineer** with backend development foundation and a growing passion for Data Science. I enjoy building reliable software, ensuring quality at every layer, and exploring cloud-native solutions.
+I'm a **QA Engineer** with a backend development foundation and a growing passion for Data Science. I enjoy building reliable software, ensuring quality at every layer, and exploring cloud-native solutions.
 
-- 🔍 &nbsp; Currently working in **Quality Assurance** — making sure software actually works the way it should
+- 🔍 &nbsp; Currently working in **Quality Assurance**  making sure software actually works the way it should
 - 🛠️ &nbsp; Comfortable building backends with **Django** and **Java**
 - ☁️ &nbsp; Experienced with **AWS** cloud services
 - 📊 &nbsp; Exploring the world of **Data Science** and expanding my Python skills
-- 🤝 &nbsp; Open to collaborating on interesting projects especially in data, backend, or QA automation
+- 🤝 &nbsp; Open to collaborating on any tech-related project: data, backend, QA automation, and beyond
 - 😄 &nbsp; Pronouns: **She/Her**
-
 ---
 
 ## 🧰 Tech Stack
@@ -29,6 +28,10 @@ I'm a **QA Engineer** with backend development foundation and a growing passion 
 **Quality Assurance**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4DB33D?style=flat-square&logo=java&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
@@ -45,6 +48,7 @@ I'm a **QA Engineer** with backend development foundation and a growing passion 
 
 **Learning**
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
